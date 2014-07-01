@@ -1,0 +1,7 @@
+# Netscape HTTP Cookie File
+# http://www.netscape.com/newsref/std/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.zc.qq.com	TRUE	/	FALSE	1427876509	uoc	8-0-9-0-9-0-0-26
+.zc.qq.com	TRUE	/	FALSE	1427876519	regkey	A5E5F9F078C4376828E45B0244C0E0011D859E0D49E2623C1DC8D147301F3BF6
+.zc.qq.com	TRUE	/	FALSE	1427876529	ADTAG	CLIENT.QQ.5281_NewAccount_Btn.0
